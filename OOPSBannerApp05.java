@@ -1,4 +1,4 @@
-public class  UC4_OOPS_join
+public class  UC5_OOPS_join
 {
   public static void main(String args[])
   {
@@ -11,6 +11,7 @@ String.join(" ", " **           ** ", " **           ** ", "  *******     ", "  
 String.join(" ", "  **         **  ", "  **         **  ", " *            ", "           * "),
 String.join(" ", "   ***     ***   ", "   ***     ***   ", " *            ", "  *        * "),
 String.join(" ", "     *******     ", "     *******     ", " *            ", "   ********  "),
+};
 for (int i = 0; i < lines.length; i++){
   System.out.println(lines[i]);
 }     
@@ -19,3 +20,4 @@ for (int i = 0; i < lines.length; i++){
 }
 
   
+
